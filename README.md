@@ -8,4 +8,5 @@ There are a total of 6 files:
 6) D 4X4 over 1,000,000 episodes, alpha=0.5
 
 How to Run: 
-jupyter nbconvert --execute 
+1) jupyter nbconvert --execute Cogs 182 Project 2 MC 3X3 1 million -2.ipynb
+2) jupyter nbconvert --execute Cogs 182 Project 2 MC 3X3 1 million -2.ipynb
